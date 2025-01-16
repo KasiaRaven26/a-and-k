@@ -30,7 +30,7 @@ export default function Work() {
           navigation="true"
           autoplay
           loop="true"
-          autoplay-delay="1900"
+          autoplay-delay="4500"
           autoplay-disable-on-interaction="false"
           center-slides="true"
           style={{
@@ -61,7 +61,7 @@ export default function Work() {
               <br />
               Web design
               <br />
-              Website:link
+              Website: link
             </p>
           </swiper-slide>
           <swiper-slide>

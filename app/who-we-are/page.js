@@ -12,7 +12,7 @@ export default function WhoWeAre() {
       </h1>
       <div className={styles.headlineContainer}>
         <span className={styles.headline}>
-          Full service web&nbsp;development
+          Full Service Web&nbsp;Development
         </span>
       </div>
       <div className={styles.contactColumns}>

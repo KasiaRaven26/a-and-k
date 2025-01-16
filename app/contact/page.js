@@ -17,7 +17,8 @@ export default function Contact() {
             className={styles.envelope}
           />
           <div className={styles.letsTalk}>
-            <p>LET'S DISCUSS YOUR PROJECT</p>
+            <h1>LET'S BRAND TOGETHER!</h1>
+            <p>Discuss your project with us</p>
             <div className={styles.email}>akdevelopmentstudio@gmail.com</div>
           </div>
         </div>
